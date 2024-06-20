@@ -44,12 +44,12 @@ const Modal: React.FC<ModalProps> = ({ onClose, documentId }) => {
           className={`text-xl font-bold mb-4 ${
             isDarkMode ? "text-light-4" : "text-dark-3"
           }`}>
-          Delete this document?
+          Delete this document
         </div>
         <p className="mb-4">
-          Are you sure you want to delete this document?
+          Are you sure you want to delete?
           <br />
-          This action cannot be reversed
+          This action cannot be changed
         </p>
         <button
           className="w-full bg-orange hover:bg-orange-light transition duration-100 text-white font-bold py-2 px-4 rounded mt-2"
