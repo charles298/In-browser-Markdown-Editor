@@ -1,3 +1,8 @@
+👋 Hi, I’m @charles298
+- 🌱 I’m currently learning I.T
+- 📫 How to reach me charlesakasoma8@gmail.com
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
