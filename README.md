@@ -77,7 +77,7 @@ I will develop on my skill to become better
 
 ### CHARLES AKASOMA
 
-- Frontend Mentor - [@charles298](https://github.com/charles298)
+- GitHub - [@charles298](https://github.com/charles298)
 
 
 
