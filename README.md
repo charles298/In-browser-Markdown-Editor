@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://in-browser-markdown-editor-xwi8-jmockd6gd-charles298s-projects.vercel.app)
+- Solution URL: [GitHub](https://github.com/charles298/In-browser-Markdown-Editor)
+- Live Site URL: [Site](https://in-browser-markdown-editor-xwi8-jmockd6gd-charles298s-projects.vercel.app)
 
 ## My process
 
@@ -77,7 +77,7 @@ I will develop on my skill to become better
 
 ### CHARLES AKASOMA
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@](https://www.frontendmentor.io/profile/yourusername)
 
 
 
