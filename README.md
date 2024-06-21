@@ -45,9 +45,8 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- 
+- HTML,Javascript,CSS
+- Tailwindcss
 - Redux
 - [React](https://reactjs.org/) - TS library
 -  [Vite] - React framework
@@ -64,7 +63,7 @@ Users should be able to:
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I will develop on my skill to become better
 
 
 ### Useful resources
@@ -76,9 +75,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+### CHARLES AKASOMA
+
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
 
 
 
